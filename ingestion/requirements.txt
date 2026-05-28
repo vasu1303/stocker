@@ -1,0 +1,6 @@
+kafka-python
+yfinance
+requests
+python-dotenv
+newsapi-python
+
